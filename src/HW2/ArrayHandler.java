@@ -2,11 +2,11 @@ package HW2;
 
 public class ArrayHandler {
     public int handle(String[][] array) {
-        if (array.length != 5) {
+        if (array.length != 4) {
             throwMyArraySizeException();
         }
         for (String[] innerArray : array) {
-            if (innerArray == null || innerArray.length != 5) {
+            if (innerArray == null || innerArray.length != 4) {
                 throwMyArraySizeException();
             }
         }
@@ -25,6 +25,6 @@ public class ArrayHandler {
     }
 
     private void throwMyArraySizeException() {
-        throw new MyArraySizeException("Размер массива не равен 5 x 5");
+        throw new MyArraySizeException("Размер массива не равен 4 x 4");
     }
 }

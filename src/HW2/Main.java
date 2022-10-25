@@ -6,7 +6,7 @@ public class Main {
         String[] first = new String[]{"2", "2", "3", "86"};
         String[] second = new String[]{"15", "2", "4", "2"};
         String[] third = new String[]{"13", "2", "3", "12"};
-        String[] fourth = new String[]{"7", "6", "43", "6"};
+        String[] fourth = new String[]{"7", "5", "43", "6"};
         array[0] = first;
         array[1] = second;
         array[2] = third;
