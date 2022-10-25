@@ -1,7 +1,7 @@
 package HW1;
 
 public class Cat implements CanRun, CanJump {
-
+//коте
     private int maxLength;
     private int maxHeight;
 

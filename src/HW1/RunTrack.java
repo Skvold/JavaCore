@@ -1,7 +1,7 @@
 package HW1;
 
 public class RunTrack extends Course {
-    private final int length = 100;
+    private final int length = 150;
 
     @Override
     public boolean doIt(Object participant) {

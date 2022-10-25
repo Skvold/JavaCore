@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Human human = new Human(150, 8);
+        Human human = new Human(150, 7);
         Cat cat = new Cat(200, 15);
         Robot robot = new Robot(80, 5);
         Object[] participants = {human, cat, robot};
