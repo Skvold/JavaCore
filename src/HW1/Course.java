@@ -2,7 +2,7 @@ package HW1;
 
 abstract public class Course {
     abstract public boolean doIt(Object participant);
-
+//участники
     protected String getClassName(Object object) {
         if(object instanceof Human) {
             return "Человек";

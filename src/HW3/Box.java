@@ -11,7 +11,7 @@ public class Box<T extends Fruit> {
         list.add(element);
     }
 
-    //вес посчитать
+    //посчитать вес
     public float getWeight() {
         float sum = 0;
         for (T element : list) {
