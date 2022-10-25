@@ -1,7 +1,7 @@
 package HW1;
 
 public class Human implements CanRun, CanJump {
-
+//человек
     private int maxLength;
     private int maxHeight;
 

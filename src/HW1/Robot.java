@@ -1,7 +1,7 @@
 package HW1;
 
 public class Robot implements CanRun, CanJump {
-
+//робот
     private int maxLength;
     private int maxHeight;
 

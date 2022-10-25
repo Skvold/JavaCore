@@ -23,7 +23,7 @@ public class ArrayHandler {
         }
         return sum;
     }
-
+//
     private void throwMyArraySizeException() {
         throw new MyArraySizeException("Размер массива не равен 4 x 4");
     }
