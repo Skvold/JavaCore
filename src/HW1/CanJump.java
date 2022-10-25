@@ -1,5 +1,5 @@
 package HW1;
 
 public interface CanJump {
-    int jump();
+    int jump(); //прыжок
 }

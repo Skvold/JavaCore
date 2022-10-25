@@ -2,7 +2,7 @@ package HW1;
 
 public class Wall extends Course {
 
-    private final int height = 10;
+    private final int height = 9;
 
     @Override
     public boolean doIt(Object participant) {
