@@ -7,7 +7,7 @@ public class homework5 {
         Employee secondEmployee = new Employee("PetrovPetr", "technician", "petrov@mail.ru", "89997777777", 34000, 34);
         Employee thirdEmployee = new Employee("FedorovFedor", "accountant", "fedorov@mail.ru", "89996666666", 41000, 41);
         Employee forthEmployee = new Employee("AlekseevAleksey", "manager", "alekseev@mail.ru", "89994444444", 42000, 42);
-        Employee fifthEmployee = new Employee("AndreevAndrey", "director", "andreev@mail.ru", "89995555555", 60000, 60);
+        Employee fifthEmployee = new Employee("AndreevAndrey", "director", "andreev@mail.ru", "89995555555", 62000, 62);
 
         firstEmployee.print();
         secondEmployee.print();
